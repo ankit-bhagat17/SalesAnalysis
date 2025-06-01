@@ -1,1 +1,1 @@
-# SalesAnalysis
+Designed an interactive Power BI dashboard to analyze sales data across products, regions, and time periods. The project involved data cleaning, DAX calculations, and visualizations to track KPIs like total revenue, profit, and sales trends, enabling data-driven business decisions.
